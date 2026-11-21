@@ -34,7 +34,7 @@ The screenshots were taken during the **Cyber Home Lab** exercise. This README u
 | AD account | Example domain user | `John Brown`, username `John.B` |
 | OU / group | Identity organization | `IT Users` OU; `IT Group` Global Security group setup |
 
-### Plain-text lab topology
+### AD layout
 
 ```text
 Windows Host / Oracle VirtualBox
@@ -241,12 +241,5 @@ This documents preparation to add the role; the screenshot alone does not prove 
 This project provided hands-on experience with foundational Windows enterprise infrastructure: Windows Server, Active Directory, DNS, domain user administration, security-group setup, domain authentication, and shared resources.
 
 It strengthened my understanding of how organizations centralize identities and manage access through a Windows domain, while also improving my ability to document configuration steps and distinguish verified results from settings still awaiting validation.
-
-## Documentation and scope
-
-- **Original source:** `Cyber Home Lab Doc 1.docx` (screenshots `image76`–`image89`; one unrelated screenshot excluded).
-- **Evidence:** All images are genuine extracts from the supplied home-lab document.
-- **Lab only:** This project documents a virtual practice environment, not a production deployment.
-- **No fabricated terminal output:** `ipconfig` is shown in the original screenshots; `nslookup` is identified explicitly as a suggested verification command.
 
 [Back to my GitHub portfolio](https://github.com/KerberosAC) · [LinkedIn](https://www.linkedin.com/in/alexandercox25/)
